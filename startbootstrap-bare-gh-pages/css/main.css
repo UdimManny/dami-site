@@ -1,0 +1,410 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+#hero{
+    background-color: #000000;
+    height: 600px;
+}
+h1.hero{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 2.4rem;
+
+color: #FFFFFF;
+
+}
+p.hero{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+padding-top: 240px;
+color: rgba(255, 255, 255, 0.57);
+}
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+p.navi{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 25px;
+text-align: center;
+padding-top: 10px;
+color: #FFFFFF;
+width: 189px;
+height: 58px;
+margin-top: 15px;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+ .navlink{
+    color: #FFFFFF;
+    padding-left: 80px;
+    color: #ffffff !important;
+}
+.nav-item{
+   margin-right:  60px;
+   
+}
+/* .social-icons{
+    position: absolute;
+    top: 85%;
+    right: 3%;
+} */
+footer{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding-bottom: 20px;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+    color:#FFFFFF;
+}
+
+h3.about-me{
+    padding-top: 256px;
+    padding-bottom: 68px;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+
+color: rgba(255, 255, 255, 0.57);
+}
+#about-hero{
+    background-color: #000000;
+}
+p.heading{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 20px;
+padding-top: 46px;
+width:80%;
+color: #FFFFFF;
+
+}
+p.story{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 20px;
+
+color: rgba(255, 255, 255, 1);
+}
+p.resume{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+
+color: #5BA7FF;
+}
+h2.my-skills{
+   padding-top: 97px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 40px;
+
+color: #FFFFFF;
+}
+p.interests{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 25px;
+
+color: #FFFFFF;
+padding-top: 79px;
+}
+.lower{
+    margin-bottom: 20px;
+}
+.white{
+    color: #FFFFFF;
+}
+
+h2.contact{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+padding-top: 156px;
+color: rgba(255, 255, 255, 0.57);
+}
+p.contact{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+padding-top: 75px;
+color: #FFFFFF;
+}
+#contact-hero{
+    background-color: #000000;
+}
+.form-control{
+    background-color: #000000 !important;
+    border-top: #000000 !important;
+    border-right: #000000 !important;
+    border-left: #000000 !important;
+    border-radius: 0px;
+
+}
+.btn-default{
+    background-color: #000000;
+    border:#ffffff 2px solid !important;
+    color: #FFFFFF;
+}
+p.connect{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+padding-top: 63px;
+color: #5BA7FF;
+}
+
+/* footer icons */
+.footer-social i.fa {
+    display: inline-block;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px #888;
+    padding: 0.5em 0.6em;
+    color:#fff;
+    padding-left: -50px;
+  
+  }
+/* Footer starts here */
+  .footer-social i.fa:hover{color:grey;}
+
+  .fa-facebook:hover{background-color:#3B5998 }
+  .fa-facebook{
+    background: rgba(51, 51, 51, 0.63);
+  }
+  .fa-twitter:hover{background-color:#1DA1F2 }
+  .fa-twitter{background: rgba(51, 51, 51, 0.63); }
+
+  .fa-linkedin:hover{background-color:#0077B5 }
+  .fa-linkedin{background: rgba(51, 51, 51, 0.63);}
+  .fa-github:hover{background-color:#bd2c00 }
+  .fa-github{
+    background: rgba(51, 51, 51, 0.63);
+  }
+
+  /* portfolio page start */
+  p.portfolio{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 30px;
+    padding-top: 249px;
+    color: rgba(255, 255, 255, 0.57);
+  }
+  p.few-works{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 35px;
+    padding-top: 17px;
+    padding-bottom: 30px;
+    color: #FFFFFF;
+  }
+  #portfolio{
+      background-color: #000000;
+  }
+  p.niche{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    padding-top: 29px;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  p.appname{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 40px;
+    
+    color: #FFFFFF;
+  }
+
+  p.app-desc{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 30px;
+    
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .port-work{
+      padding-top: 30px;
+  }
+
+/* blog styling starts */
+#blog{
+    background: #FFFFFF;
+
+}
+h3.blog{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+padding-top: 218px;
+color: rgba(51, 51, 51, 0.57);
+}
+
+.bloglinks li{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+padding: 15px;
+color: #333333;
+}
+
+.bloglinks li:hover{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+padding: 15px;
+color: #1335E5;
+cursor: pointer;
+}
+.cardie{
+    background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+border-radius: 5px;
+}
+.top{
+    border-radius: 0px;
+}
+
+p.texts{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+padding: 5px;
+color: #333333;
+}
+h5.title{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-size: 16px;
+padding: 5px;
+color: #333333;
+}
+p.date{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+padding-top: 5px;
+
+color: rgba(51, 51, 51, 0.57);
+
+}
+
+#pagination{
+    margin-top: 30px;
+}
+
+.paging li{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+padding: 8px;
+color: #333333;
+background: #FFFFFF;
+border: 0.5px solid #000000;
+box-sizing: border-box;
+border-radius: 50%;
+display: inline;
+margin-left: 5px;
+}
+/* blog styling begins */
+
+h5.blog-title{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-size: 20px;
+display: inline;
+color: #333333;
+}
+
+p.blog-text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #333333;
+}
+.btn-info{
+    
+    color: #000000 !important;
+    background: #FFFFFF !important;
+border: 3px solid #858181 !important;
+
+border-radius: 10px;
+
+}
+
+p.author{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 16px;
+
+color: #333333;
+}
+
+p.about-author{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #333333;
+}
